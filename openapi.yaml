@@ -6,7 +6,7 @@ info:
   version: 1.0.0
 externalDocs:
   description: Find out more about this REST API
-  url:
+  url: https://github.com/melenabelt/api-delilahresto
 servers:
 - url: https://virtserver.swaggerhub.com/melenabelt/Delilah_Resto_ElenaCorrea/1.0.0
   description: SwaggerHub API Auto Mocking
