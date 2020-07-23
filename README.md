@@ -41,7 +41,7 @@ Go to the server folder, open the terminal and run the following command:
 node index.js
 ```
 
-## Documentación YAML
+## YAML Documentation
 
 To create, update and/or delete users, products and orders in Postman, look at the yaml file inside the server folder; there you will find the api documentation along with the verbs to be executed
 
